@@ -1,7 +1,4 @@
-# Project Repository
-
-## Deployed Code Link: (currently inactive)
-http://161.35.75.193:3000/
+# Dish Dealer
 
 ## About this Project:
 
