@@ -1,6 +1,6 @@
 # Project Repository
 
-## Deployed Code Link:
+## Deployed Code Link: (currently inactive)
 http://161.35.75.193:3000/
 
 ## About this Project:
